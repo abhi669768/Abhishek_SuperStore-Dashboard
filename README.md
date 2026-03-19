@@ -37,18 +37,12 @@ Total Orders: 22K
 Total Profit: ₹175K
 Ship Delivery Types: 4
 
-📍 Sales by Region (Donut Chart):
-
-West: 33%, East: 29%, Central: 22%, South: 16%
-🧩 Sales by Segment (Donut Chart):
-Consumer: 48%, Corporate: 33%, Home Office: 19%
-💳 Sales by Payment Mode (Donut Chart):
-COD: 43%, Online: 35%, Cards: 22%
-🛳️ Sales by Ship Mode (Bar Chart):
-Standard Class leads with ₹0.33M
+📍 Sales by Region (Donut Chart): West: 33%, East: 29%, Central: 22%, South: 16%
+🧩 Sales by Segment (Donut Chart): Consumer: 48%, Corporate: 33%, Home Office: 19%
+💳 Sales by Payment Mode (Donut Chart): COD: 43%, Online: 35%, Cards: 22%
+🛳️ Sales by Ship Mode (Bar Chart): Standard Class leads with ₹0.33M
 🗺️ Sales and Profit by State (Map Visualization)
-📅 Monthly Sales YoY (Line Charts):
-Sales and order trends across 2019 and 2020 to observe seasonal variations
+📅 Monthly Sales YoY (Line Charts): Sales and order trends across 2019 and 2020 to observe seasonal variations
 
 🧱 Sales by Category and Sub-category (Bar Charts):
 Top categories: Office Supplies (₹0.64M), Technology (₹0.47M), Furniture (₹0.45M)
