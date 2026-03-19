@@ -75,5 +75,5 @@ Additional focus on Washington, Pennsylvania, Ohio, etc.
 
 ### 7. Screenshot
 
-Show what the dashboard looks like. - ![Alt text]()
+Show what the dashboard looks like. - ![Alt text](https://github.com/abhi669768/Abhishek_SuperStore-Dashboard/blob/main/Abhi-SuperStore-Dashboard2.png)
 Show what the dashboard looks like. - ![Alt text]()
